@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>한우도감</title>
+    <link>https://hanwoodogam-kr.vercel.app/</link>
+    <description>한우도감 소식</description>
+    <language>ko</language>
+    <lastBuildDate>Wed, 18 Nov 2026 09:00:00 +0900</lastBuildDate>
+    <item>
+      <title>한우도감 사이트 오픈 준비 중</title>
+      <link>https://hanwoodogam-kr.vercel.app/</link>
+      <guid>https://hanwoodogam-kr.vercel.app/#open</guid>
+      <description>한우도감 사이트를 준비하고 있습니다.</description>
+      <pubDate>Wed, 18 Nov 2026 09:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
